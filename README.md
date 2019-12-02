@@ -1,7 +1,10 @@
 # Open Data samples
 
 This repository contains directories jupyter-notebooks.
-They are intended to demonstrate 
+They are intended to demonstrate some data sets produced in 
+open data projects by Forum Virium Helsinki.
+
+Note that this is still very experimental way for us to share data.
 
 # Getting started
 
@@ -21,3 +24,16 @@ Install all required packages (jupyter-notebook, pandas etc):
 
 # Available data sets
 
+## AQBurk
+
+Data from SDS011 PM2.5/PM10 sensors, mostly in Jätkäsaari area (Helsinki).
+
+Open 
+[AQBurk/AQBurk-sample.ipynb](AQBurk/AQBurk-sample.ipynb) 
+in your jupyter-notebook.
+
+TODO: add metadata of sensors (location etc.)
+
+## Noise sensors
+
+TODO
