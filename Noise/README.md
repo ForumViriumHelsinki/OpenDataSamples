@@ -21,11 +21,11 @@ which uses InfluxDB database as a data source.
 ## Static data sets
 
 Data is dumped regularly to static files and current temporary place for the data is here:  
-[https://iot.fvh.fi/opendata/noise/]
+https://iot.fvh.fi/opendata/noise/
 
 # Getting started
 
 You need functional Jupyter notebook Python3 environment. 
-Open [Noise-sample.ipynb] within it and run it. 
+Open [Noise-sample.ipynb](Noise-sample.ipynb) within it and run it. 
 Notebook should download default sample data file and show some stats
 and graphs generated from the data.
