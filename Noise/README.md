@@ -21,7 +21,7 @@ which uses InfluxDB database as a data source.
 ## Static data sets
 
 Data is dumped regularly to static files and current temporary place for the data is here:  
-[https://iot.fvh.fi/opendata/noise/]
+https://iot.fvh.fi/opendata/noise/
 
 # Getting started
 
