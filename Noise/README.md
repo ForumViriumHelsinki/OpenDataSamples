@@ -1,9 +1,7 @@
 # Noise sensor data (mySMARTLife)
 
-NOTE: this way to share open data with Jupyter notebooks 
-is still looking for shape, so take this as an experiment.
-
-NOTE: work in progress
+NOTE: this project is in end-of-life phase. 
+During year 2023 noise sensor data will be cleaned up and stored in CSV and Parquet formats.
 
 ## Briefly
 
@@ -21,7 +19,7 @@ which uses InfluxDB database as a data source.
 ## Static data sets
 
 Data is dumped regularly to static files and current temporary place for the data is here:  
-https://iot.fvh.fi/opendata/noise/
+[iot.fvh.fi/downloads/noise/](https://iot.fvh.fi/downloads/noise/)
 
 # Getting started
 
